@@ -6,22 +6,18 @@ I am a back-end software engineer specializing in building high load back-end se
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
+[![Linkedin Badge]()
+[![Telegram Badge](https://t.me/faxriyort) 
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding & Calisthenics
+- :computer: I'm currently working on Java spring
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
 
-![Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
